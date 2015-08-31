@@ -1,0 +1,1 @@
+THIS IS A DIRECTORY /etc/vim/
